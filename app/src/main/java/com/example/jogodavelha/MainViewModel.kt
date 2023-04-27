@@ -75,10 +75,9 @@ class MainViewModel @Inject constructor(
     }
 
     fun onPositionClicked(position: Int) {
+        if (uiState.value.values[position] != Characters.EMPTY) return
         val updatedArray = uiState.value.values
-        if (uiState.value.values[position] == Characters.EMPTY) {
-            updatedArray[position] = uiState.value.userCharacters
-        }
+        updatedArray[position] = uiState.value.userCharacters
         verifyWinByDifficulty()
     }
 
