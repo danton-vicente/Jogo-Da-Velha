@@ -14,7 +14,7 @@ A ideia deste projeto foi criar um jogo da velha com três dificuldades, onde a 
 
 ## Documentação da API
 
-- Não há API no projeto. Mas o projeto em C que foi utilizado como iniciativa para este projeto deverá ser postado neste GitHub em breve e linkado neste Readme.
+- Não há API no projeto. Mas o projeto em C que foi utilizado como iniciativa para este projeto foi o código feito em 2013 que pode ser visto [AQUI](https://github.com/danton-vicente/jogo-da-velha-2013)
 
 
 ## Aprendizados
