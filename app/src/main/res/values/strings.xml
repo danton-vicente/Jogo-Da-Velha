@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="toolbar_title">Jogo da Velha impossível</string>
+    <string name="toolbar_subtitle_expand">Clique para expandir</string>
+    <string name="toolbar_subtitle_collapse">Clique para fechar</string>
+    <string name="select_difficulty">Selecione uma dificuldade:</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Médio</string>
+    <string name="hard">Difícil</string>
+    <string name="select_your_char">Selecione com o que deseja jogar:</string>
+    <string name="play_as_x">Jogar com o X</string>
+    <string name="cross">X</string>
+    <string name="play_as_dot">Jogar com o O</string>
+    <string name="dot">O</string>
+    <string name="is_your_turn">Agora é a vez sua vez de jogar!</string>
+    <string name="is_opponent_turn">Vez do seu adversário!</string>
+    <string name="the_dot_init">O circulo começa!</string>
+    <string name="the_cross_init">Quem começa é o X!</string>
+    <string name="you_init">Você que começa, boa sorte!</string>
+    <string name="prize_init">Sorteando quem vai começar…</string>
+    <string name="result_win">Você venceu! Parabéns!</string>
+    <string name="result_lose">Você perdeu! Tente de novo!</string>
+    <string name="result_draw">Xiii… Deu velha!</string>
+    <string name="init_game">Iniciar Jogo</string>
+    <string name="reset_game">Reiniciar Jogo</string>
+</resources>
